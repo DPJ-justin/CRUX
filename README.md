@@ -1,3 +1,6 @@
+<img width="899" height="840" alt="9-isometric-crux" src="https://github.com/user-attachments/assets/2f63735d-4958-4d63-851a-5353791e660d" />
+
+
 # CRUX
 
 Crux Discovery is an open-source multi-agent AI research platform. Where every claim points back to its sentence.
